@@ -5,7 +5,7 @@ public class Hello {
 
         System.out.println("Hello, Evelin!");
 
-        int myFirstNumber = 5;
+        int myFirstNumber = 11;
         System.out.println(myFirstNumber);
     }
 }
